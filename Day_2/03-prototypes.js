@@ -15,8 +15,5 @@ const Student = {
     }
 }
 
-const Keshav = Object.create(Student);
-const protoname = Keshav.__proto__;
-console.log(protoname)
 
 
